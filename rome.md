@@ -1,3 +1,7 @@
+Sources:
+
+- Third-Year Latin (Harrington and McDuffee), 1933
+
 # History of Rome
 
 - Rome is said to have been founded on April 21, 753 BC
