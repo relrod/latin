@@ -1,55 +1,90 @@
-|------------+-------------+--------------------------------+-------------------------------+------------------------------------------------|
-| Nominative | Genitive    | English                        | English Cognates              | Notes                                          |
-|------------+-------------+--------------------------------+-------------------------------+------------------------------------------------|
-|------------+-------------+--------------------------------+-------------------------------+------------------------------------------------|
-| Chapter 1  |             |                                |                               |                                                |
-|------------+-------------+--------------------------------+-------------------------------+------------------------------------------------|
-| fluvius    | fluviī      | river                          | fluvial                       |                                                |
-| īnsula     | īnsulae     | island                         | insular, insulate             |                                                |
-| oppidum    | oppidī      | town                           |                               |                                                |
-| ōceanus    | ōceanī      | ocean                          |                               | Gk. "Ōkeanàs" - water deity                    |
-| imperium   | imperiī     | empire/state                   | imperium, empire              |                                                |
-| prōvincia  | prōvincae   | province                       | province                      |                                                |
-| numerus    | numerī      | number                         | number, numerous              | rhotacism from earlier *nem-eso                |
-| littera    | litterae    | letter                         | letter                        |                                                |
-| vocābulum  | vocābulī    | designation/name               | vocable (n.)                  |                                                |
-| capitulum  | capitulī    | chapter                        | chapter, capital              | caput + -ulum                                  |
-| syllaba    | syllabae    | syllable                       | syllable                      |                                                |
-| exemplum   | exemplī     | example                        | sample, example               | rel. exempt                                    |
-| pēnsum     | pēnsī       | weight/task                    | peso                          |                                                |
-| magnus     | magnī       | large/big/great/important      | magni-, mayor                 |                                                |
-| parvus     | parvī       | little/small/cheap/unimportant | parvi-, few                   |                                                |
-| Graecus    | Graecī      | Greek                          | Graeco-                       |                                                |
-| Rōmānus    | Rōmānī      | Roman                          | Romano-, Roman, romance       |                                                |
-| Latīnus    | Latīnī      | Latin                          | Latin, Latino                 |                                                |
-| multus     | multī       | many, much                     | multi-                        |                                                |
-| paucus     | paucī       | few, little                    | pauci-                        |                                                |
-| ūnus       | -           | one                            | an, one, uni-                 |                                                |
-| duo        | -           | two                            | two, duo, duet, duplex        |                                                |
-| trēs       | -           | three                          | three, tri-                   |                                                |
-| sex        | -           | six                            | six                           |                                                |
-| mīlle      | -           | thousand                       | million (mille + -one)        |                                                |
-| prīmus     | prīmī       | first                          | prime, primo, primus, primary |                                                |
-| secundus   |             | second                         |                               | PIE *sek^w "to follow"                         |
-| tertius    | tertiī      |                                |                               |                                                |
-| est        | -           |                                |                               | PIE *hièsti                                    |
-| sunt       | -           |                                |                               |                                                |
-| in         | -           |                                |                               | PIE *hièn                                      |
-| et         | -           |                                |                               | PIE *èti                                       |
-| sed        | -           |                                |                               |                                                |
-| nōn        | -           |                                |                               |                                                |
-| quoque     | -           |                                |                               |                                                |
-| -ne?       | -           |                                |                               |                                                |
-| ubi?       | -           |                                |                               |                                                |
-| num?       | -           |                                |                               |                                                |
-| quid?      | -           |                                |                               |                                                |
-| grammatica | grammaticae |                                |                               | Gk.                                            |
-| singulāris | singulāris  |                                |                               |                                                |
-| plūrālis   | plūrālis    |                                |                               |                                                |
-| -ulum      | -ulī        | -                              |                               | Form a noun of instrument or means from a verb |
-| caput      | capitis     | head                           | capita, capo, chief           |                                                |
-| exemptus   | exemptī     | exempt, removed, banished      | exempt                        | From eximō "I remove/extract"; ex- + emō       |
-| ex-        | -           | out/away                       |                               |                                                |
-| eximō      |             | I remove/extract               |                               |                                                |
-| eō         | -           | I go                           |                               |                                                |
-| exeō       | -           | I exit                         | exit, issue                   | From ex- (out/away) + eo                       |
+|-----------------+----------------+--------------------------------+-------------------------------------+---------------------------------------------|
+| Nominative      | Genitive       | English                        | English Cognates                    | Notes                                       |
+|-----------------+----------------+--------------------------------+-------------------------------------+---------------------------------------------|
+|-----------------+----------------+--------------------------------+-------------------------------------+---------------------------------------------|
+| Chapter 1       |                |                                |                                     |                                             |
+|-----------------+----------------+--------------------------------+-------------------------------------+---------------------------------------------|
+| fluvius         | fluviī         | river                          | fluvial                             |                                             |
+| īnsula          | īnsulae        | island                         | insular, insulate                   |                                             |
+| oppidum         | oppidī         | town                           |                                     |                                             |
+| ōceanus         | ōceanī         | ocean                          | ocean                               | Gk. "Ōkeanàs" - water deity                 |
+| imperium        | imperiī        | empire/state                   | imperium, empire                    |                                             |
+| prōvincia       | prōvincae      | province                       | province                            |                                             |
+| numerus         | numerī         | number                         | number, numerous                    | rhotacism from earlier *nem-eso             |
+| littera         | litterae       | letter                         | letter                              |                                             |
+| vocābulum       | vocābulī       | designation/name               | vocable (n.)                        |                                             |
+| capitulum       | capitulī       | chapter                        | chapter, capital                    | caput + -ulum                               |
+| syllaba         | syllabae       | syllable                       | syllable                            |                                             |
+| exemplum        | exemplī        | example                        | sample, example                     | rel. exempt                                 |
+| pēnsum          | pēnsī          | weight/task                    | peso                                |                                             |
+| magnus          | magnī          | large/big/great/important      | magni-, mayor                       |                                             |
+| parvus          | parvī          | little/small/cheap/unimportant | parvi-, few                         |                                             |
+| Graecus         | Graecī         | Greek                          | Graeco-                             |                                             |
+| Rōmānus         | Rōmānī         | Roman                          | Romano-, Roman, romance             |                                             |
+| Latīnus         | Latīnī         | Latin                          | Latin, Latino                       |                                             |
+| multus          | multī          | many, much                     | multi-                              |                                             |
+| paucus          | paucī          | few, little                    | pauci-                              |                                             |
+| ūnus            | -              | one                            | an, one, uni-                       |                                             |
+| duo             | -              | two                            | two, duo, duet, duplex              |                                             |
+| trēs            | -              | three                          | three, tri-                         |                                             |
+| sex             | -              | six                            | six                                 |                                             |
+| mīlle           | -              | thousand                       | million (mille + -one)              |                                             |
+| prīmus          | prīmī          | first                          | prime, primo, primus, primary       |                                             |
+| secundus        |                | second                         |                                     | PIE *sek^w "to follow"                      |
+| tertius         | tertiī         |                                |                                     |                                             |
+| est             | -              |                                |                                     | PIE *hièsti                                 |
+| sunt            | -              |                                |                                     |                                             |
+| in              | -              |                                |                                     | PIE *hièn                                   |
+| et              | -              |                                |                                     | PIE *èti                                    |
+| sed             | -              |                                |                                     |                                             |
+| nōn             | -              |                                |                                     |                                             |
+| quoque          | -              |                                |                                     |                                             |
+| -ne?            | -              |                                |                                     |                                             |
+| ubi?            | -              |                                |                                     |                                             |
+| num?            | -              |                                |                                     |                                             |
+| quid?           | -              |                                |                                     |                                             |
+| grammatica      | grammaticae    |                                |                                     | Gk.                                         |
+| singulāris      | singulāris     |                                |                                     |                                             |
+| plūrālis        | plūrālis       |                                |                                     |                                             |
+| -ulum           | -ulī           | -                              |                                     | Form a noun of instrument/means from a verb |
+| caput           | capitis        | head                           | capita, capo, chief                 |                                             |
+| exemptus        | exemptī        | exempt, removed, banished      | exempt                              | From eximō "I remove/extract"; ex- + emō    |
+| ex-             | -              | out/away                       |                                     |                                             |
+| eximō           |                | I remove/extract               |                                     |                                             |
+| eō              | -              | I go                           |                                     |                                             |
+| exeō            | -              | I exit                         | exit, issue                         | From ex- (out/away) + eo                    |
+|-----------------+----------------+--------------------------------+-------------------------------------+---------------------------------------------|
+| Chapter 2       |                |                                |                                     |                                             |
+|-----------------+----------------+--------------------------------+-------------------------------------+---------------------------------------------|
+| vir             | virī           | man                            | virtue, virile, were-               | PIE *wiHrós                                 |
+| fēmina          | fēminae        | woman                          | feminine, feminize                  | PIE *dʰeh₁m̥h₁néh₂ (the one nursing)         |
+| puer            | puerī          | boy                            | puerile, puerilism, puerperal       | PIE *ph₂wero, from *peh₂w-                  |
+| puella          | puellae        | girl                           |                                     |                                             |
+| familia         | familiae       | family                         | family, familiar                    | PIE *dʰh₁-m-eló-, from *dʰeh₁-              |
+| pater           | pateris        | father                         | father, paternal                    | PIE *ph₂tḗr                                 |
+| māter           | materis        | mother                         | mother, maternal                    | PIE *méh₂tēr                                |
+| fīlius          | filiī          | son                            |                                     |                                             |
+| fīlia           | filiae         | daughter                       |                                     |                                             |
+| līberī          | līberōrum      | children                       |                                     |                                             |
+| servus          | servī          | servant                        | serf, servant (ult.)                |                                             |
+| dominus         | dominī         | lord; owner of residence       | domino, don, donzel                 |                                             |
+| acilla          | ancillae       | maid, slave-girl               |                                     |                                             |
+| domina          | dominae        | lady of the house              |                                     |                                             |
+| liber           | librī          | book                           | rel. leaf, lobby, lodge             |                                             |
+| titulus         | titulī         | title                          | title (OE titul, ME titel), tilde   | Likely Etruscan origin(!)                   |
+| pāgina          | pāginae        | page                           |                                     | PIE *peh₂ǵ-                                 |
+| antīquus        | antīquī        | old, ancient                   | antique, antic                      | PIE *h₂énti-h₃kʷós                          |
+| novus           | novī           | new                            | new                                 | PIE *néwos                                  |
+| cēterus         | cēterī         | other, remainder, rest         | "et cētera"                         |                                             |
+| meus            | meī            | my                             |                                     |                                             |
+| tuus            | tuī            | your                           |                                     |                                             |
+| centum          | -              | 100                            | hundred, cent, centum, century, ... | PIE *ḱm̥tóm                                  |
+| duo/ae/o        | duōrum         | two                            | two, duo, duet                      | PIE *dwóh₁                                  |
+| tres/es/ia      | trium          | three                          | three                               | PIE *tréyes                                 |
+| -que            | -              | and                            |                                     |                                             |
+| quis/is/id?     | cuius          | who (whose)                    | who, when, ...                      |                                             |
+| quot?           | -              | how many?                      | quotient (ult.)                     |                                             |
+| masculīnus/a/um | masculīnī/ae/ī | masculine, male                | masculine                           |                                             |
+| fēminīnus/a/um  | ī/ae/ī         | feminine                       | feminine                            |                                             |
+| neutrum         |                |                                |                                     |                                             |
+| genetīvus/a/um  | ī/ae/ī         | genitive                       | genitive                            |                                             |
