@@ -88,3 +88,44 @@
 | fēminīnus/a/um  | ī/ae/ī         | feminine                       | feminine                            |                                             |
 | neutrum         |                |                                |                                     |                                             |
 | genetīvus/a/um  | ī/ae/ī         | genitive                       | genitive                            |                                             |
+|-----------------+----------------+--------------------------------+-------------------------------------+---------------------------------------------|
+| Chapter 3       |                |                                |                                     |                                             |
+|-----------------+----------------+--------------------------------+-------------------------------------+---------------------------------------------|
+| scaena          | scaenae        | scene, stage                   | scene                               | Gk.                                         |
+| persōna         | persōnae       | mask, person, personality      | person, persona                     | Possibly Etruscan origin                    |
+| mamma           | mammae         | breast, udder, mother (mama)   | mamma                               | Gk.                                         |
+| laetus          | laetī/ae/ī     | happy                          | free                                |                                             |
+| īrātus          | ī/ae/ī         | irate, angered, enraged        | irate                               |                                             |
+| probus          | ī/ae/ī         | good, noble                    |                                     |                                             |
+| improbus        | ī/ae/ī         | rude, greedy, wicked           |                                     |                                             |
+| cantat          | -              | sing                           |                                     |                                             |
+| pulsat          | -              | hit                            |                                     |                                             |
+| plōrat          | -              | cry                            |                                     |                                             |
+| rīdet           | -              | laugh, ridicule, mock          |                                     |                                             |
+| videt           | -              | see                            |                                     |                                             |
+| vocat           | -              | call                           |                                     |                                             |
+| venit           | -              | come                           |                                     |                                             |
+| interrogat      | -              | ask, interrogate, question     |                                     |                                             |
+| respondet       | -              | respond                        |                                     |                                             |
+| dormit          | -              | sleep                          |                                     |                                             |
+| audit           | -              | hear                           |                                     |                                             |
+| verberat        | -              | lash, whip, beat               |                                     |                                             |
+| mē              | -              | me (acc.)                      |                                     |                                             |
+| tē              | -              | you (acc.)                     |                                     |                                             |
+| eum             | -              | him (acc.)                     |                                     |                                             |
+| eam             | -              | her (acc.)                     |                                     |                                             |
+| id              | -              | it (acc.)                      |                                     |                                             |
+| neque           | -              | and not                        |                                     |                                             |
+| iam             | -              | already, now                   |                                     |                                             |
+| cūr?            | -              | why?                           |                                     |                                             |
+| quia            | -              | because                        |                                     |                                             |
+| ō!              | -              | voative particle               |                                     |                                             |
+| hīc             | -              | here, this/these               |                                     |                                             |
+| quī             | cuius          | who                            |                                     |                                             |
+| quae            |                |                                |                                     |                                             |
+| quem            |                |                                |                                     |                                             |
+| quam            |                |                                |                                     |                                             |
+| nōminātīvus     | ī/ae/ī         | nominative                     |                                     |                                             |
+| accūsātīvus     | ī/ae/ī         | accusative                     |                                     |                                             |
+| verbum          | verbī          | word, proverb, verb            | verb                                |                                             |
+
