@@ -1,0 +1,59 @@
+This document describes Latin pronouns and interrogatives.
+
+|-----------+-----------+------------------------------------+---------+---------------------+---------------------|
+|           |           | INTERROGATIVE PRONOUNS             |         |                     |                     |
+|-----------+-----------+------------------------------------+---------+---------------------+---------------------|
+|-----------+-----------+------------------------------------+---------+---------------------+---------------------|
+| Latin Sg. | Latin Pl. | Description                        | English | Example             | English Example     |
+|-----------+-----------+------------------------------------+---------+---------------------+---------------------|
+| quid      | quae      | neuter interrogative               | what?   | Quid est?           | What is it?         |
+| quis      | qui       | masculine interrogrative           | who?    | Quis es?            | Who are you?        |
+| quae      | quae      | feminine interrogrative            | who?    | Quae es?            | Who are you?        |
+| cuius     |           | all-gender genitive interrogrative | whose?  | Cuius est?          | Whose is it?        |
+| quem      | quos      | masculine interrogative accusative | whom?   | Quem vocat Quintus? | Quintus calls whom? |
+| quem      | quas      | feminine interrogative accusative  | whom?   |                     |                     |
+| quid      | quae      | neuter interrogative accusative    | whom?   |                     |                     |
+
+|-----------+-----------+----------------------+---------+-------------------+-----------------|
+|           |           | POSSESSIVE PRONOUNS  |         |                   |                 |
+|-----------+-----------+----------------------+---------+-------------------+-----------------|
+|-----------+-----------+----------------------+---------+-------------------+-----------------|
+| Latin Sg. | Latin Pl. | Description          | English | Example           | English Example |
+|-----------+-----------+----------------------+---------+-------------------+-----------------|
+| meus      | mei       | masculine possessive | my      | Meus fluvius est. | It is my river. |
+| mea       | meae      | feminine possessive  | my      |                   |                 |
+| meum      | mea       | neuter possessive    | my      |                   |                 |
+
+|-----------+-----------+------------------------------------+---------+--------------------+-----------------|
+|           |           | DEMONSTRATIVE PRONOUNS             |         |                    |                 |
+|-----------+-----------+------------------------------------+---------+--------------------+-----------------|
+|-----------+-----------+------------------------------------+---------+--------------------+-----------------|
+| Latin Sg. | Latin Pl. | Description                        | English | Example            | English Example |
+|-----------+-----------+------------------------------------+---------+--------------------+-----------------|
+| eum       | eos       | masculine accusative demonstrative | him     | Marcus eum pulsat. | Marcus hit him. |
+| eam       | eas       | feminine accusative demonstrative  | her     | Marcus eam pulsat. | Marcus hit her. |
+| id        | ea        | neuter accusative demonstrative    | it      | Marcus id pulsat.  | Marcus hit it.  |
+| eius      | eorum     | masculine genitive demonstrative   | his     |                    |                 |
+| eius      | earum     | feminine genitive demonstrative    | her     |                    |                 |
+| eius      | eorum     | neuter genitive demonstrative      | its     |                    |                 |
+
+|-----------+-----------+-------------------------------+---------+----------------------------------------+-------------------------------------|
+|           |           | RELATIVE PRONOUNS             |         |                                        |                                     |
+|-----------+-----------+-------------------------------+---------+----------------------------------------+-------------------------------------|
+|-----------+-----------+-------------------------------+---------+----------------------------------------+-------------------------------------|
+| Latin Sg. | Latin Pl. | Description                   | English | Example                                | English Example                     |
+|-----------+-----------+-------------------------------+---------+----------------------------------------+-------------------------------------|
+| qui       | qui       | masculine relative            | who     | Marcus, qui puer est, cantat.          | Marcus, who is a boy, sings.        |
+| quae      | quae      | feminine relative             | who     |                                        |                                     |
+| quod      | quae      | neuter relative               | who     |                                        |                                     |
+| quem      | quos      | masculine accusative relative | whom    | Puer quem Aemilia verberat est Marcus. | The boy whom Aemilia hit is Marcus. |
+| quam      | quas      | feminine accusative relative  | whom    | Puella quam Iulius videt est Iulia.    | The girl whom Julius sees is Julia. |
+| quod      | quae      | neuter accusative rel         | whom    |                                        |                                     |
+
+* Random examples
+** Quis est puer qui ridet?
+*** Who (interrogative) is the boy who (relative) laughs?
+** Quae est puella quae plorat?
+*** Who (interrogative) is the girl who (relative) cries?
+** Quem Marcus pulsat?
+*** Whom (interrogative) does Marcus hit?
